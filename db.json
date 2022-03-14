@@ -11,17 +11,20 @@
   
  "listadeVideos": [
  {
+   "id": 2,
    "tittle": "Video 1",
    "subtittle": "Spiderman",
    "img": "https://phantom-marca.unidadeditorial.es/1b5575018d4cbf619c94272f42dc2e1b/resize/1320/f/jpg/assets/multimedia/imagenes/2021/11/17/16371200011962.jpg"
   },
   {
+    "id": 3,
     "tittle":  "Video 2",
     "subtittle":  "Wanda",
     "img":  "https://techgames223.files.wordpress.com/2021/03/a66765ff-8bdb-46ab-ba39-46afb3db1df4.jpg"
   
    },
    {
+   "id": 4,
    "tittle":  "Video 3",
    "subtittle":  "Loki",
    "img":  "https://i.blogs.es/454f64/loki/1366_2000.jpeg"
